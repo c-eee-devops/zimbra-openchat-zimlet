@@ -20,7 +20,7 @@
   "dependencies": {
     "bowser": "1.7.1",
     "emojione": "2.2.7",
-    "html-entities": "1.2.1",
+    "html-entities": "1.4.0",
     "jquery-textcomplete": "1.8.1",
     "json-prune": "1.0.1",
     "json3": "3.3.2",
