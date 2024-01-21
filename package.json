@@ -18,7 +18,7 @@
     "postinstall": "./utils/patchNodeModules"
   },
   "dependencies": {
-    "bowser": "1.7.1",
+    "bowser": "1.9.4",
     "emojione": "2.2.7",
     "html-entities": "1.2.1",
     "jquery-textcomplete": "1.8.1",
